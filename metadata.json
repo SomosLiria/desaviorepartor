@@ -1,0 +1,8 @@
+{
+  "name": "ParDesavio Reparto Control PRO",
+  "description": "A web application to manage, control, and analyze the work of delivery drivers for the Par Desavio business. It allows an administrator to create and assign orders, track deliveries with simulated geolocation, and generate performance reports.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

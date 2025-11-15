@@ -1,0 +1,3 @@
+window.APP_CONFIG = {
+  API_KEY: 'AQUÍ_VA_TU_CLAVE_DE_API_DE_GOOGLE'
+};
